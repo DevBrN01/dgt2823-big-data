@@ -1,0 +1,15 @@
+Verificação de execução do projeto DGT2823
+Python: 3.12.14
+Pandas: 3.0.1
+Dois scripts executados integralmente, sem avisos.
+Dados originais: 32 linhas, 6 colunas, 3 células nulas.
+Dados finais: 31 linhas, 6 colunas, nenhuma célula nula.
+Único ID removido: 22.
+Calories dos IDs 18 e 28: zero.
+Date do ID 26: 2020-12-26.
+Todas as datas finais conferidas por ID.
+Duas falhas didáticas de conversão capturadas e registradas.
+Dataframe original e colunas fora do escopo preservados.
+CSV final reaberto e comparado ao dataframe tratado.
+Memória inicial estimada, incluindo índice: 3331 bytes.
+Tipo inicial de Date: str; tipo final: datetime64[us].
